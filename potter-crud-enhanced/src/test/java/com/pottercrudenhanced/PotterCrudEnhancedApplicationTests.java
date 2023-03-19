@@ -1,10 +1,10 @@
-package com.pottercrud;
+package com.pottercrudenhanced;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PotterCrudApplicationTests {
+class PotterCrudEnhancedApplicationTests {
 
 	@Test
 	void contextLoads() {
